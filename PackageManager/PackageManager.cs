@@ -10,11 +10,11 @@ using System.Collections.Generic;
 
 namespace PackageManager
 {
-    public class PackageParser
+    public class PackageManager
     {
         private IWebProxy Proxy { get; }
 
-        public PackageParser(IWebProxy proxy = null)
+        public PackageManager(IWebProxy proxy = null)
         {
             Proxy = proxy;
         }
