@@ -1,4 +1,8 @@
 # DNFPackageManager
+package.lst parser for
+- DNF(Dungeon & Fighter)
+- DFO(Dungeon Fighter Online)
+- Arad(アラド戦記)
 
 ### How to use
 ```cs
