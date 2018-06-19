@@ -1,4 +1,5 @@
-﻿using System;
+// Credit: https://github.com/Kritsu/ExtractorSharp
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
